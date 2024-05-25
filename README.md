@@ -1,4 +1,4 @@
-#Restaurant Menu - HTML Final Project
+# Restaurant Menu - HTML Final Project
 
 Welcome to my Restaurant Menu project! 
 This website is a culmination of the skills I've acquired during the Codédex HTML course. 
